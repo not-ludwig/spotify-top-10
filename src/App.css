@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&display=swap');
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+    /* MIN HEIGHT -- Kinda hacky */
+    /* font-size: 14px; */
+    font-family: "Manrope", sans-serif;
+    font-weight: 300;
+}
+
+.main-title {
+    margin-bottom: 12px;
+}
